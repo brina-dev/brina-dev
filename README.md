@@ -1,8 +1,7 @@
 -  Hi, I’m @brina-dev
 -  I’m interested in be a back end developer
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  How to reach me ...
+-  I’m currently learning C language and in predict java
+-  How to reach me sabrina.lima98760@gmail.com
 -  Pronouns: She/her
 
 <!---
