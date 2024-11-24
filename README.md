@@ -1,6 +1,6 @@
--  Hi, I’m the Sabrina!
+-  Hi, I’m Sabrina!
 -  I’m interested in be a web developer.
--  I’m currently learning C language and in predict java.
+-  I’m currently learning C language and in predict javascript.
 -  How to reach me sabrina.lima98760@gmail.com
 -  Pronouns: She/her!
 
