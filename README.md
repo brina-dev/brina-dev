@@ -1,6 +1,6 @@
 ## Olá mundo, seja bem-vindo ao meu GitHub!!
 
-<img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="190px" align = "right">
+<img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" align = "right">
 
 Sou desenvolvedora WEB e amo o mundo da programação, pois assim posso usar a minha imaginação para inovar esse mundo tão vasto que é o da tecnologia.
 E atualmente estou em formação em ADS🩷
