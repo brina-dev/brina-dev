@@ -13,8 +13,8 @@ I'm a WEB developer and I love the world of programming, so I can use my imagina
 </div>
 
   <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />  
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brina-dev&show_icons=true&theme=radical&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=brina-dev&show_icons=true&show_icons=true&theme=radical&count_private=true" />  
 </div>
 
 </div>
