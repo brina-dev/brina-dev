@@ -7,20 +7,24 @@
 I'm a WEB developer and I love the world of programming, so I can use my imagination to innovate this vast world of technology. And I'm currently training in ADS🩷
 
 <div> 
-  
   <a href="https://www.instagram.com/_sbrinz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sabrina.lima98760@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sabrina-lima-495678252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
+<div>
   <div align = "left">
   <img height = "125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brina-dev&show_icons=true&theme=radical&count_private=true"/>
   <img height = "170em" src="https://github-readme-stats.vercel.app/api?username=brina-dev&show_icons=true&show_icons=true&theme=radical&count_private=true" />  
 </div>
 
+<div> 
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brina-dev&bg_color=000000&color=F2ACB9&line=F2ACB9&point=843179&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
-<div style="display: inline_block"><br>
+ 
+<div> style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
